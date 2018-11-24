@@ -1,0 +1,108 @@
+tauSwitchNeutral16Choices.csv
+
+Arm counts: [7.904, 8.096]
+Arm 0 percent: 0.494
+Arm counts first third: [2.506, 2.494]
+Arm 0 first third percent: 0.5012
+Arm counts second third: [2.438, 2.562]
+Arm 0 second third percent: 0.48760000000000003
+Arm counts last third: [2.96, 3.04]
+Arm 0 last third percent: 0.49333333333333335
+
+tauSwitchNeutral16Results.csv
+
+Average_wins: 0.57175
+Average_wins first third : 0.5327999999999999
+average wins second third: 0.5875999999999999
+average wins  last third: 0.591
+
+tauSwitchNeutral8Choices.csv
+
+Arm counts: [3.914, 4.086]
+Arm 0 percent: 0.48925
+Arm counts first third: [0.988, 1.012]
+Arm 0 first third percent: 0.494
+Arm counts second third: [1.464, 1.536]
+Arm 0 second third percent: 0.488
+Arm counts last third: [1.462, 1.538]
+Arm 0 last third percent: 0.48733333333333334
+
+tauSwitchNeutral8Results.csv
+
+Average_wins: 0.55575
+Average_wins first third : 0.519
+average wins second third: 0.548
+average wins  last third: 0.588
+
+tauSwitchPlentiful16Choices.csv
+
+Arm counts: [8.604, 7.396]
+Arm 0 percent: 0.53775
+Arm counts first third: [2.584, 2.416]
+Arm 0 first third percent: 0.5168
+Arm counts second third: [2.682, 2.318]
+Arm 0 second third percent: 0.5364
+Arm counts last third: [3.338, 2.662]
+Arm 0 last third percent: 0.5563333333333333
+
+tauSwitchPlentiful16Results.csv
+
+Average_wins: 0.700125
+Average_wins first third : 0.682
+average wins second third: 0.6924
+average wins  last third: 0.7216666666666668
+
+tauSwitchPlentiful8Choices.csv
+
+Arm counts: [4.128, 3.872]
+Arm 0 percent: 0.516
+Arm counts first third: [0.97, 1.03]
+Arm 0 first third percent: 0.485
+Arm counts second third: [1.586, 1.414]
+Arm 0 second third percent: 0.5286666666666667
+Arm counts last third: [1.572, 1.428]
+Arm 0 last third percent: 0.524
+
+tauSwitchPlentiful8Results.csv
+
+Average_wins: 0.695
+Average_wins first third : 0.669
+average wins second third: 0.7026666666666666
+average wins  last third: 0.7046666666666667
+
+tauSwitchSparse16Choices.csv
+
+Arm counts: [8.11, 7.89]
+Arm 0 percent: 0.506875
+Arm counts first third: [2.528, 2.472]
+Arm 0 first third percent: 0.5056
+Arm counts second third: [2.562, 2.438]
+Arm 0 second third percent: 0.5124
+Arm counts last third: [3.02, 2.98]
+Arm 0 last third percent: 0.5033333333333333
+
+tauSwitchSparse16Results.csv
+
+Average_wins: 0.380875
+Average_wins first third : 0.35640000000000005
+average wins second third: 0.3708
+average wins  last third: 0.4096666666666667
+
+tauSwitchSparse8Choices.csv
+
+Arm counts: [3.954, 4.046]
+Arm 0 percent: 0.49425
+Arm counts first third: [0.948, 1.052]
+Arm 0 first third percent: 0.474
+Arm counts second third: [1.546, 1.454]
+Arm 0 second third percent: 0.5153333333333333
+Arm counts last third: [1.46, 1.54]
+Arm 0 last third percent: 0.48666666666666664
+
+tauSwitchSparse8Results.csv
+
+Average_wins: 0.37275
+Average_wins first third : 0.331
+average wins second third: 0.37
+average wins  last third: 0.4033333333333333
+

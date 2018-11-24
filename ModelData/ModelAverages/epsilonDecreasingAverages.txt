@@ -1,0 +1,108 @@
+epsilonDecreasingNeutral16Choices.csv
+
+Arm counts: [7.902, 8.098]
+Arm 0 percent: 0.493875
+Arm counts first third: [2.472, 2.528]
+Arm 0 first third percent: 0.4944
+Arm counts second third: [2.506, 2.494]
+Arm 0 second third percent: 0.5012
+Arm counts last third: [2.924, 3.076]
+Arm 0 last third percent: 0.48733333333333334
+
+epsilonDecreasingNeutral16Results.csv
+
+Average_wins: 0.582625
+Average_wins first third : 0.528
+average wins second third: 0.6004
+average wins  last third: 0.6133333333333334
+
+epsilonDecreasingNeutral8Choices.csv
+
+Arm counts: [3.868, 4.132]
+Arm 0 percent: 0.4835
+Arm counts first third: [1.006, 0.994]
+Arm 0 first third percent: 0.503
+Arm counts second third: [1.406, 1.594]
+Arm 0 second third percent: 0.4686666666666666
+Arm counts last third: [1.456, 1.544]
+Arm 0 last third percent: 0.48533333333333334
+
+epsilonDecreasingNeutral8Results.csv
+
+Average_wins: 0.562
+Average_wins first third : 0.512
+average wins second third: 0.566
+average wins  last third: 0.5913333333333333
+
+epsilonDecreasingPlentiful16Choices.csv
+
+Arm counts: [7.674, 8.326]
+Arm 0 percent: 0.479625
+Arm counts first third: [2.348, 2.652]
+Arm 0 first third percent: 0.46959999999999996
+Arm counts second third: [2.426, 2.574]
+Arm 0 second third percent: 0.4852
+Arm counts last third: [2.9, 3.1]
+Arm 0 last third percent: 0.48333333333333334
+
+epsilonDecreasingPlentiful16Results.csv
+
+Average_wins: 0.700125
+Average_wins first third : 0.67
+average wins second third: 0.704
+average wins  last third: 0.722
+
+epsilonDecreasingPlentiful8Choices.csv
+
+Arm counts: [4.0, 4.0]
+Arm 0 percent: 0.5
+Arm counts first third: [0.996, 1.004]
+Arm 0 first third percent: 0.498
+Arm counts second third: [1.484, 1.516]
+Arm 0 second third percent: 0.49466666666666664
+Arm counts last third: [1.52, 1.48]
+Arm 0 last third percent: 0.5066666666666667
+
+epsilonDecreasingPlentiful8Results.csv
+
+Average_wins: 0.685
+Average_wins first third : 0.68
+average wins second third: 0.6786666666666668
+average wins  last third: 0.6946666666666665
+
+epsilonDecreasingSparse16Choices.csv
+
+Arm counts: [7.706, 8.294]
+Arm 0 percent: 0.481625
+Arm counts first third: [2.336, 2.664]
+Arm 0 first third percent: 0.46719999999999995
+Arm counts second third: [2.478, 2.522]
+Arm 0 second third percent: 0.49560000000000004
+Arm counts last third: [2.892, 3.108]
+Arm 0 last third percent: 0.482
+
+epsilonDecreasingSparse16Results.csv
+
+Average_wins: 0.35725
+Average_wins first third : 0.3316
+average wins second third: 0.3644
+average wins  last third: 0.3726666666666667
+
+epsilonDecreasingSparse8Choices.csv
+
+Arm counts: [3.922, 4.078]
+Arm 0 percent: 0.49025
+Arm counts first third: [0.988, 1.012]
+Arm 0 first third percent: 0.494
+Arm counts second third: [1.46, 1.54]
+Arm 0 second third percent: 0.48666666666666664
+Arm counts last third: [1.474, 1.526]
+Arm 0 last third percent: 0.49133333333333334
+
+epsilonDecreasingSparse8Results.csv
+
+Average_wins: 0.35025
+Average_wins first third : 0.325
+average wins second third: 0.3433333333333334
+average wins  last third: 0.374
+
