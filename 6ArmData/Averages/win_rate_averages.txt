@@ -1,0 +1,15 @@
+Epsilon Decreasing
+Average Win Rate: 0.69664
+
+Epsilon Greedy
+Average Win Rate: 0.52168
+
+Pi First
+Average Win Rate: 0.62776
+
+Tau Switch
+Average Win Rate: 0.64124
+
+Win Stay Lose Shift
+Average Win Rate: 0.62504
+
