@@ -1,0 +1,132 @@
+Total Averages
+
+neutral average wins 8: 0.59375
+neutral average wins 16: 0.60625
+sparse average wins 8: 0.35825
+sparse average wins 16: 0.38249999999999995
+plentiful average wins 8: 0.7074999999999999
+plentiful average wins 16: 0.695625
+
+First Third Averages
+
+neutral average wins 8: 0.5429999999999999
+neutral average wins 16: 0.5711999999999999
+sparse average wins 8: 0.358
+sparse average wins 16: 0.37039999999999995
+plentiful average wins 8: 0.6699999999999999
+plentiful average wins 16: 0.6824
+
+Second Third Averages
+
+neutral average wins 8: 0.6033333333333333
+neutral average wins 16: 0.6204000000000001
+sparse average wins 8: 0.3526666666666667
+sparse average wins 16: 0.3907999999999999
+plentiful average wins 8: 0.7173333333333334
+plentiful average wins 16: 0.7072
+
+Third Third Averages
+
+neutral average wins 8: 0.618
+neutral average wins 16: 0.6236666666666667
+sparse average wins 8: 0.364
+sparse average wins 16: 0.38566666666666666
+plentiful average wins 8: 0.7226666666666666
+plentiful average wins 16: 0.697
+
+Average Number of Times Arm 1 Was Chosen Overall
+
+neutral 8 total counts: 4.066
+neutral 8 arm 1 total percentage: 0.50825
+neutral 16 total counts:  8.392
+neutral 16 arm 1 total percentage: 0.5245
+sparse 8 total counts: 3.664
+sparse 8 arm 1 total percentage: 0.458
+sparse 16 total counts: 7.534000000000001
+sparse 16 arm 1 total percentage: 0.47087500000000004
+plentiful 8 total counts: 4.004
+plentiful 8 arm 1 total percentage: 0.5005000000000001
+plentiful 16 total counts:  7.25
+
+plentiful 16 arm 1 total percentage: 0.453125
+Average Number of Times Arm 2 Was Chosen Overall
+
+neutral 8 total counts: 3.934
+neutral 16 total counts:  7.608
+sparse 8 total counts: 4.336
+sparse 16 total counts: 8.466
+plentiful 8 total counts: 3.9959999999999996
+plentiful 16 total counts:  8.75
+
+Average Number of Times Arm 1 Was Chosen in the First Third of Each Game
+
+neutral 8 first counts: 1.1380000000000003
+neutral 8 arm 1 percentage first third: 0.5690000000000001
+neutral 16 first counts:  2.728
+neutral 16 arm 1 percentage first third: 0.5456000000000001
+sparse 8 first counts: 1.058
+sparse 8 arm 1 percentage first third: 0.529
+sparse 16 first counts: 2.528
+sparse 16 arm 1 percentage first third: 0.5056
+plentiful 8 first counts: 1.128
+plentiful 8 arm 1 percentage first third: 0.564
+plentiful 16 first counts:  2.346
+plentiful 16 arm 1 percentage first third: 0.4692
+
+Average Number of Times Arm 2 Was Chosen in the First Third of Each Game
+
+neutral 8 first counts: 0.8620000000000001
+neutral 16 first counts:  2.272
+sparse 8 first counts: 0.942
+sparse 16 first counts: 2.472
+plentiful 8 first counts: 0.8720000000000001
+plentiful 16 first counts:  2.654
+
+Average Number of Times Arm 1 Was Chosen in the Second Third of Each Game
+
+neutral 8 second counts: 1.482
+neutral 8 arm 1 percentage second third: 0.494
+neutral 16 second counts:  2.542
+neutral 16 arm 1 percentage second third: 0.5084
+sparse 8 second counts: 1.324
+sparse 8 arm 1 percentage second third: 0.44133333333333336
+sparse 16 second counts: 2.3120000000000003
+sparse 16 arm 1 percentage second third: 0.46240000000000003
+plentiful 8 second counts: 1.45
+plentiful 8 arm 1 percentage second third: 0.48333333333333334
+plentiful 16 second counts:  2.1900000000000004
+plentiful 16 arm 1 percentage second third: 0.43800000000000006
+
+Average Number of Times Arm 2 Was Chosen in the Second Third of Each Game
+
+neutral 8 second counts: 1.518
+neutral 16 second counts:  2.458
+sparse 8 second counts: 1.6759999999999997
+sparse 16 second counts: 2.6879999999999997
+plentiful 8 second counts: 1.55
+plentiful 16 second counts:  2.8099999999999996
+
+Average Number of Times Arm 1 Was Chosen in the Last Third of Each Game
+
+neutral 8 third counts: 1.4460000000000002
+neutral 8 arm 1 percentage last third: 0.48200000000000004
+neutral 16 third counts:  3.122
+neutral 16 arm 1 percentage last third: 0.5203333333333333
+sparse 8 third counts: 1.282
+sparse 8 arm 1 percentage last third: 0.42733333333333334
+sparse 16 third counts: 2.694
+sparse 16 arm 1 percentage last third: 0.449
+plentiful 8 third counts: 1.4260000000000002
+plentiful 8 arm 1 percentage last third: 0.4753333333333334
+plentiful 16 third counts:  2.714
+plentiful 16 arm 1 percentage last third: 0.4523333333333333
+
+Average Number of Times Arm 2 Was Chosen in the Third Third of Each Game
+
+neutral 8 third counts: 1.5539999999999998
+neutral 16 third counts:  2.878
+sparse 8 third counts: 1.718
+sparse 16 third counts: 3.306
+plentiful 8 third counts: 1.5739999999999998
+plentiful 16 third counts:  3.286
+

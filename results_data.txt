@@ -1,0 +1,420 @@
+mm-8-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.32
+average_wins_first_third : 0.36
+average_wins_second_third: 0.2866666666666667
+average_wins_third_third: 0.32666666666666666
+
+my-16-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.37375
+average_wins_first_third : 0.312
+average_wins_second_third: 0.39199999999999996
+average_wins_third_third: 0.41
+
+my-16-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.68375
+average_wins_first_third : 0.6679999999999998
+average_wins_second_third: 0.7040000000000001
+average_wins_third_third: 0.6799999999999998
+
+mm-8-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.695
+average_wins_first_third : 0.61
+average_wins_second_third: 0.7333333333333333
+average_wins_third_third: 0.7133333333333333
+
+bm-8-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.4025
+average_wins_first_third : 0.36
+average_wins_second_third: 0.4
+average_wins_third_third: 0.4333333333333333
+
+mz-16-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.5725
+average_wins_first_third : 0.52
+average_wins_second_third: 0.6240000000000001
+average_wins_third_third: 0.5733333333333334
+
+eg-16-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.395
+average_wins_first_third : 0.396
+average_wins_second_third: 0.368
+average_wins_third_third: 0.41666666666666663
+
+mm-16-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.3725
+average_wins_first_third : 0.364
+average_wins_second_third: 0.384
+average_wins_third_third: 0.37
+
+mm-16-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.70625
+average_wins_first_third : 0.7240000000000001
+average_wins_second_third: 0.7199999999999999
+average_wins_third_third: 0.6799999999999998
+
+eg-16-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.71125
+average_wins_first_third : 0.708
+average_wins_second_third: 0.7040000000000001
+average_wins_third_third: 0.7200000000000002
+
+bm-8-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.7175
+average_wins_first_third : 0.71
+average_wins_second_third: 0.74
+average_wins_third_third: 0.7
+
+ph-8-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.375
+average_wins_first_third : 0.4
+average_wins_second_third: 0.3666666666666667
+average_wins_third_third: 0.36666666666666664
+
+ph-8-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.7225
+average_wins_first_third : 0.66
+average_wins_second_third: 0.72
+average_wins_third_third: 0.7666666666666666
+
+bm-16-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.60875
+average_wins_first_third : 0.508
+average_wins_second_third: 0.62
+average_wins_third_third: 0.6833333333333332
+
+st-16-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.68875
+average_wins_first_third : 0.6720000000000002
+average_wins_second_third: 0.6960000000000001
+average_wins_third_third: 0.6966666666666668
+
+ph-16-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.62
+average_wins_first_third : 0.616
+average_wins_second_third: 0.616
+average_wins_third_third: 0.6266666666666667
+
+sz-8-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.61
+average_wins_first_third : 0.58
+average_wins_second_third: 0.6066666666666667
+average_wins_third_third: 0.6333333333333333
+
+st-8-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.605
+average_wins_first_third : 0.51
+average_wins_second_third: 0.6133333333333334
+average_wins_third_third: 0.66
+
+st-16-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.39125
+average_wins_first_third : 0.3999999999999999
+average_wins_second_third: 0.396
+average_wins_third_third: 0.38
+
+mz-8-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.7325
+average_wins_first_third : 0.7
+average_wins_second_third: 0.7733333333333333
+average_wins_third_third: 0.7133333333333333
+
+mz-8-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.3775
+average_wins_first_third : 0.38
+average_wins_second_third: 0.3533333333333333
+average_wins_third_third: 0.3999999999999999
+
+rw-8-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.58
+average_wins_first_third : 0.54
+average_wins_second_third: 0.6333333333333332
+average_wins_third_third: 0.5533333333333332
+
+ah-8-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.5425
+average_wins_first_third : 0.57
+average_wins_second_third: 0.54
+average_wins_third_third: 0.5266666666666667
+
+rw-16-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.61625
+average_wins_first_third : 0.5920000000000001
+average_wins_second_third: 0.6239999999999999
+average_wins_third_third: 0.6300000000000001
+
+my-8-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.7175
+average_wins_first_third : 0.71
+average_wins_second_third: 0.7333333333333333
+average_wins_third_third: 0.7066666666666666
+
+my-8-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.3375
+average_wins_first_third : 0.36
+average_wins_second_third: 0.32666666666666666
+average_wins_third_third: 0.33333333333333337
+
+ah-16-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.58375
+average_wins_first_third : 0.5319999999999999
+average_wins_second_third: 0.628
+average_wins_third_third: 0.59
+
+eg-8-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.565
+average_wins_first_third : 0.52
+average_wins_second_third: 0.5666666666666667
+average_wins_third_third: 0.5933333333333333
+
+sz-16-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.39125
+average_wins_first_third : 0.38
+average_wins_second_third: 0.37599999999999995
+average_wins_third_third: 0.41333333333333333
+
+sz-16-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.70125
+average_wins_first_third : 0.644
+average_wins_second_third: 0.7440000000000001
+average_wins_third_third: 0.7133333333333333
+
+eg-8-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.35
+average_wins_first_third : 0.39
+average_wins_second_third: 0.3066666666666667
+average_wins_third_third: 0.36666666666666664
+
+sz-16-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.63
+average_wins_first_third : 0.5960000000000001
+average_wins_second_third: 0.652
+average_wins_third_third: 0.64
+
+eg-8-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.725
+average_wins_first_third : 0.66
+average_wins_second_third: 0.7666666666666666
+average_wins_third_third: 0.7266666666666666
+
+ah-16-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.645
+average_wins_first_third : 0.648
+average_wins_second_third: 0.6480000000000001
+average_wins_third_third: 0.6399999999999999
+
+rw-16-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.37125
+average_wins_first_third : 0.336
+average_wins_second_third: 0.4040000000000001
+average_wins_third_third: 0.3733333333333333
+
+my-8-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.62
+average_wins_first_third : 0.54
+average_wins_second_third: 0.6266666666666666
+average_wins_third_third: 0.6666666666666665
+
+rw-16-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.69375
+average_wins_first_third : 0.6920000000000001
+average_wins_second_third: 0.6799999999999998
+average_wins_third_third: 0.7066666666666667
+
+ah-16-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.3625
+average_wins_first_third : 0.36400000000000005
+average_wins_second_third: 0.35999999999999993
+average_wins_third_third: 0.3633333333333333
+
+ah-8-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.67
+average_wins_first_third : 0.64
+average_wins_second_third: 0.66
+average_wins_third_third: 0.7
+
+rw-8-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.72
+average_wins_first_third : 0.67
+average_wins_second_third: 0.6733333333333333
+average_wins_third_third: 0.8000000000000002
+
+mz-8-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.57
+average_wins_first_third : 0.47
+average_wins_second_third: 0.6
+average_wins_third_third: 0.6066666666666667
+
+rw-8-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.38
+average_wins_first_third : 0.4
+average_wins_second_third: 0.3866666666666667
+average_wins_third_third: 0.36
+
+ah-8-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.3375
+average_wins_first_third : 0.32
+average_wins_second_third: 0.34
+average_wins_third_third: 0.3466666666666666
+
+ph-16-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.39125
+average_wins_first_third : 0.4000000000000001
+average_wins_second_third: 0.364
+average_wins_third_third: 0.40666666666666657
+
+sz-8-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.3525
+average_wins_first_third : 0.33
+average_wins_second_third: 0.3533333333333333
+average_wins_third_third: 0.36666666666666664
+
+st-8-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.35
+average_wins_first_third : 0.28
+average_wins_second_third: 0.4066666666666666
+average_wins_third_third: 0.34
+
+st-8-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.6875
+average_wins_first_third : 0.7
+average_wins_second_third: 0.6866666666666668
+average_wins_third_third: 0.6800000000000002
+
+sz-8-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.6875
+average_wins_first_third : 0.64
+average_wins_second_third: 0.6866666666666665
+average_wins_third_third: 0.7199999999999999
+
+ph-16-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.72
+average_wins_first_third : 0.72
+average_wins_second_third: 0.7440000000000001
+average_wins_third_third: 0.6999999999999998
+
+st-16-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.58375
+average_wins_first_third : 0.5720000000000001
+average_wins_second_third: 0.572
+average_wins_third_third: 0.6033333333333333
+
+ph-8-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.585
+average_wins_first_third : 0.59
+average_wins_second_third: 0.5933333333333333
+average_wins_third_third: 0.5733333333333333
+
+bm-16-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.7075
+average_wins_first_third : 0.7120000000000001
+average_wins_second_third: 0.6879999999999998
+average_wins_third_third: 0.72
+
+bm-16-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.3925
+average_wins_first_third : 0.38799999999999996
+average_wins_second_third: 0.456
+average_wins_third_third: 0.34333333333333327
+
+bm-8-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.615
+average_wins_first_third : 0.53
+average_wins_second_third: 0.6066666666666666
+average_wins_third_third: 0.6799999999999998
+
+mz-16-S_A2-B4_dat.matresults.csv
+
+average_wins: 0.38375
+average_wins_first_third : 0.36399999999999993
+average_wins_second_third: 0.40800000000000003
+average_wins_third_third: 0.38
+
+mm-16-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.6125
+average_wins_first_third : 0.604
+average_wins_second_third: 0.604
+average_wins_third_third: 0.6266666666666666
+
+eg-16-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.625
+average_wins_first_third : 0.6080000000000001
+average_wins_second_third: 0.612
+average_wins_third_third: 0.65
+
+mz-16-S_A4-B2_dat.matresults.csv
+
+average_wins: 0.69875
+average_wins_first_third : 0.636
+average_wins_second_third: 0.7439999999999999
+average_wins_third_third: 0.7133333333333333
+
+my-16-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.61
+average_wins_first_third : 0.5640000000000001
+average_wins_second_third: 0.652
+average_wins_third_third: 0.6133333333333334
+
+mm-8-S_A1-B1_dat.matresults.csv
+
+average_wins: 0.645
+average_wins_first_third : 0.58
+average_wins_second_third: 0.6466666666666666
+average_wins_third_third: 0.6866666666666665
+
