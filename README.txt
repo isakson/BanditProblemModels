@@ -1,8 +1,7 @@
+Irene Sakson and Ellie Mamantov
 Computational Models of Congition
 Final Project
 11/13/2018
-
-Code written by Irene Sakson and Ellie Mamantov as a final project for Computational Models of Cognition.
 
 This folder contiains:
 
